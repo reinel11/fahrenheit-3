@@ -1,0 +1,33 @@
+body {
+  background-color: silver;
+}
+img{
+  border-radius:5px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size:40px;
+}
+
+
+nav ul {
+    background-color:salmon;
+    border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+nav ul li a {
+    text-decoration: none;
+    
+}
